@@ -2,7 +2,7 @@
 
 > 从"用AI"到"长在AI上"，重新定义企业组织
 
-**版本**: v1.0 | **作者**: 滔哥 | **最后更新**: 2026-05-09
+**版本**: v1.0-专业版 | **作者**: 滔哥 | **最后更新**: 2026-05-16
 
 ---
 
@@ -10,7 +10,7 @@
 
 一本关于AI Native组织转型的深度技术手册。从认知到架构，从工作流到文化，覆盖企业AI Native转型的完整链路。
 
-22个章节，6个Part + 附录。
+28个章节，7个Part + 附录。
 
 ## 适合谁
 
@@ -29,6 +29,7 @@
 | Part 4 | §12-§15 | 产品AI Native化 |
 | Part 5 | §16-§18 | 文化与激励 |
 | Part 6 | §19-§22 | 转型路径与案例 |
+| Part 7 | §23-§28 | AI Native 创业实战 |
 | 附录 | A-D | 评估表、工具推荐、速查表 |
 
 ## 核心概念
@@ -43,6 +44,7 @@
 ## 参考资源
 
 - [YC: The Playbook for Building an AI Native Company](https://www.ycombinator.com/library/OX-the-playbook-for-building-an-ai-native-company)
+- [Anthropic: The Founder's Playbook](https://claude.com/blog/the-founders-playbook)
 - [IBM: What is AI Native](https://www.ibm.com/think/topics/ai-native)
 - [极客公园: 传神AI Native实践](https://www.geekpark.net/news/362146)
 - [36氪: AI Native组织](https://36kr.com/p/3665560018051971)
@@ -58,7 +60,7 @@
 node generate-website.js
 
 # 生成PDF（需要Chrome）
-node generate-pdf.js
+node generate-orange-book-pdf.js
 ```
 
 ## 橙皮书系列
